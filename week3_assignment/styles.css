@@ -46,7 +46,7 @@ input[type="radio"] {
 
 input[type="submit"],
 input[type="button"] {
-    background-color: #4CAF50;
+    background-color: #239633;
     color: white;
     padding: 10px 20px;
     border: none;
@@ -64,5 +64,3 @@ input[type="submit"] {
     float: left;
     margin-right: 10px;
 }
-
-</style>
